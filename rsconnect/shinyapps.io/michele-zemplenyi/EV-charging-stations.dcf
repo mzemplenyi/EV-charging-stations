@@ -1,0 +1,13 @@
+name: EV-charging-stations
+title: EV-charging-stations
+username:
+account: michele-zemplenyi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3747836
+bundleId: 4310069
+url: https://michele-zemplenyi.shinyapps.io/EV-charging-stations/
+when: 1615066043.86213
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: EV-charging-map.R|global.R|data

@@ -23,7 +23,7 @@ shinyServer(function(input, output){
     
     # Read in individual EV charging station data
 
-    states_file_path <- ("C:/Users/Michele/Documents/Github/EV-charging-stations/EV-charging-stations/data/ev_charging_by_state.Rds")
+    states_file_path <- ("ev_charging_by_state.Rds")
     states <- readRDS(states_file_path)
     
     # radioInput <- reactive({

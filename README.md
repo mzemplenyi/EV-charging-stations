@@ -1,5 +1,7 @@
 # EV-charging-stations
-Experimenting with R Shiny and Leaflet to make maps. 
+Experimenting with R Shiny and Leaflet to make interactive maps. 
+
+Shiny app can be viewed at: https://michele-zemplenyi.shinyapps.io/EV-charging-stations/
 
 Data sources:
 1) Alternative Fuels Data Center: https://afdc.energy.gov/data/

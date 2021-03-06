@@ -1,0 +1,1 @@
+https://maps-data.nrel.gov/ows?outputFormat=SHAPE-ZIP&propertyName=station_name%2Cfuel_type_code%2Cstatus_code%2Cstreet_address%2Ccity%2Cst_prv_code%2Czip%2Cstation_phone%2Caccess_days_time%2Cgroups_with_access_code%2Ccards_accepted%2Clongitude%2Clatitude%2Cthe_geom&request=GetFeature&service=WFS&typeName=transatlas%3Astation_elec_equipments_mv&version=1.0.0
